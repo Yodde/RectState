@@ -1,0 +1,13 @@
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\bin\Debug\RectState.exe.config
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\bin\Debug\RectState.exe
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\bin\Debug\RectState.pdb
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.csprojResolveAssemblyReference.cache
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\MainWindow.baml
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\MainWindow.g.cs
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\App.g.cs
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState_MarkupCompile.cache
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.g.resources
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.Properties.Resources.resources
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.csproj.GenerateResource.Cache
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.exe
+c:\users\szymon\documents\visual studio 2013\Projects\RectState\RectState\obj\Debug\RectState.pdb
